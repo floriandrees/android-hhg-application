@@ -1,0 +1,22 @@
+HEADER§==§Willkommen!
+CONTENT§==§<div><b>Bevor du loslegst</b></div>
+<div><u><b>Wische nach links</b></u>, um dir Informationen zu verschiedenen Themen anzeigen zu lassen.<br/>Bitte nehme dir einen Moment Zeit, damit du dir diese Information durchlesen kannst.</div>
+Um die verschiedenen Funktionen der App zu nutzen, benutze bitte das <b>Navigations-Menü auf der linken Seite</b>.
+
+HEADER§==§Version 1.1.0 ist da!
+CONTENT§==§<div><b>Neues Design</b></div>
+<div>Das Design der vorherigen App-Versionen wurde durch ein <u>neues und modernes Design</u> ersetzt.</div>
+<div><b>Wähle deine Schriftart</b></div>
+Wie bereits in vorherigen Versionen hast du die Möglichkeit, eine Schriftart auszuwählen, die in der gesamten App verwendet wird.<br>Navigiere hierzu in die Einstellungen.
+
+HEADER§==§Funktionsweise
+CONTENT§==§<div><b>Aktualität der Daten</b></div>
+<div>Damit du dich auf dem aktuellen Stand befindest, stelle bitte sicher, dass du beim Start der App über eine <b><u>aktive Internetverbindung</u></b> verfügst, damit die Daten heruntergeladen werden können.</div>
+<div><b>Manuelle Aktualisierung</b></div>
+<div></div>Nutze den "Refresh"-Button auf der Homepage, um dich auf dem neusten Stand zu halten, falls du der Meinung sein solltest, dass die Daten nicht aktuell sind.
+
+HEADER§==§Informationen
+CONTENT§==§<div>Falls du dir ein paar <u>allgemeine Informationen</u> über das Heinrich-Heine-Gymnasium und / oder die App einholen möchtest, kannst du dies in den Information tun. </div>
+<div><b>Datenschutzerklärung</b></div>
+Mit der Anmeldung in die App akzeptierst du die Datenschutzerklärung und stimmst zu, dass du dir über die Inhalte im Klaren bist.<br>
+Navigiere in die Informationen, um dir die Inhalte anzusehen.

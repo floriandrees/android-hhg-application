@@ -1,0 +1,30 @@
+Keine Klasse ausgewählt
+
+05a Klasse 5a
+05b Klasse 5b
+05c Klasse 5c
+05d Klasse 5d
+
+06a Klasse 6a
+06b Klasse 6b
+06c Klasse 6c
+06d Klasse 6d
+
+07a Klasse 7a
+07b Klasse 7b
+07c Klasse 7c
+07d Klasse 7d
+
+08a Klasse 8a
+08b Klasse 8b
+08c Klasse 8c
+08d Klasse 8d
+
+09a Klasse 9a
+09b Klasse 9b
+09c Klasse 9c
+09d Klasse 9d
+
+EF Einführungsphase
+Q1 Qualifikationsphase 1
+Q2 Qualifikationsphase 2

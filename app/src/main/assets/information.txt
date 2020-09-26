@@ -1,0 +1,53 @@
+HEADER§==§Vorabinformationen
+CONTENT§==§<i>Vergewissere dich auf der Webseite des Heinrich-Heine-Gymnasiums über die Richtig- und Vollständigkeit der Daten.</i>
+
+HEADER§==§Schulleitung
+CONTENT§==§<div>OStD Marcus von Grabczewski, <i>Schulleiter</i><br>N. N., <i>stellv. Schulleiter</i></div>
+Hardtgenbuscher Kirchweg 100<br>51107 Köln<br><br>
+<b>Telefon:</b> (0221) 98976-223<br>
+<b>Telefax:</b> (0221) 98976-254<br><br>
+<b>E-Mail:</b> 184858@schule.nrw.de<br><br>
+<b>Internetauftritt:</b> https://hhgonline.de
+
+HEADER§==§Schulträger
+CONTENT§==§Diensteanbieter im Sinne des RStV / TMG<br><br>
+<u>Stadt Köln - Amt für Schulentwicklung</u><br>vertreten durch: Oberbürgermeisterin Henriette Reker<br><br>
+Willy-Brandt-Platz 3<br>50679 Köln<br><br>
+<b>Telefon:</b> (0221) 221-29204 <br><b>Telefax:</b> (0221) 221-29240<br><br>
+<b>E-Mail:</b> schulentwicklungsamt@stadt-koeln.de
+
+HEADER§==§Technische Umsetzung / Coding
+CONTENT§==§<div>Die Entwicklung findet durch <u><b>Florian Drees</b></u> statt.</div>
+<div>Bei Fragen wende dich bitte an die unten stehende E-Mail-Adresse.<br>
+<u>E-Mail:</u> floriandrees.hhgkoeln@gmail.com</div>
+{REPLACE_WITH_VERSION}
+
+HEADER§==§Rechtliche Hinweise
+CONTENT§==§<div>Die verwendeten Grafiken, die in der App verwendet werden, sind <u>urheberrechtlich geschützt.</u></div>
+Diese dürfen ausschließlich zum privaten Gebrauch ohne jegliche Änderung vervielfältigt werden.
+
+HEADER§==§Haftungsausschluss
+CONTENT§==§<div>Die Informationen, die Sie in der Applikation auffinden können, wurden nach <u>bestem Wissen sorgfältig zusammengestellt</u> und <u>geprüft</u>.</div>
+<div>Es wird jedoch keine Gewähr – weder ausdrücklich noch stillschweigend – für die Vollständigkeit, Richtigkeit, Aktualität oder Qualität und jederzeitige Verfügbarkeit der bereit gestellten Informationen übernommen.</div>
+In keinem Fall wird für Schäden, die sich aus der Verwendung der abgerufenen Informationen ergeben, eine Haftung übernommen.
+
+HEADER§==§Internetseiten dritter Anbieter / Links
+CONTENT§==§<div><i>Die App enthält auch Links oder Verweise auf Internetauftritte Dritter.</i></div>
+<div>Diese Links zu den Internetauftritten Dritter stellen keine Zustimmung zu deren Inhalten durch den Herausgeber dar.</div>
+<div>Es wird <u>keine Verantwortung</u> für die Verfügbarkeit oder den Inhalt solcher Internetauftritte übernommen und <u>keine Haftung für Schäden oder Verletzungen</u>, die aus der Nutzung – gleich welcher Art – solcher Inhalte entstehen.</div>
+<div>Mit den Links zu anderen Internetauftritten wird den Nutzern lediglich der <u>Zugang zur Nutzung der Inhalte vermittelt</u>.</div>
+Für illegale, fehlerhafte oder unvollständige Inhalte und für Schäden, die aus der Nutzung entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde.
+
+HEADER§==§Datenschutzerklärung
+CONTENT§==§<div>Die folgende Datenschutzerklärung basiert auf <u>§13 Pflichten des Dienstanbieters des Telemediengesetzes (TMG)</u>.</div>
+<div><i>Der Inhalt der auf die Applikation angepasste Datenschutzerklärung ist jederzeit für den Benutzer abrufbar.</i></div>
+<div>(1) Der Status der vorhandenen Internetverbindung darf abgefragt werden</b>, damit Funktionen nicht aktiviert werden, welche zwingend eine vorhandene Internetverbindung benötigen.</div>
+<div>(1.1) Die abgefragten Informationen sagen lediglich aus, ob das ausführende Gerät zum aktuellen Zeitpunkt über eine fähige Internetverbindung verfügt. Es werden keinerlei weitere Informationen über die Internetverbindung gesammelt.</div>
+<div>(2) Es dürfen Daten aus dem Speicher ausgelesen werden, damit Funktionen (Vertretungsplan, Kollegium) auch ohne eine aktive Internetverbindung erreichbar sein können. Es wird versichert, dass lediglich anwendungs-, und <u>nicht</u> personenbezogene Daten ausgelesen werden.</div>
+<div>(2.1) Bei diesen Daten handelt es sich um anwendungsbezogene Daten. Es wird versichert, dass es sich bei diesen Daten um <u>nicht</u> personenbezogene Daten handelt.</div>
+<div>(3) Um die Daten auch ohne aktive Internetverbindung zur Verfügung stellen zu können, werden Inhalte der Funktionen (Vertretungsplan, Kollegium) in eine Datei geschrieben, welche im Speicher des Gerätes abgelegt wird.</div>
+<div>(3.1) Es wird versichert, dass es sich hierbei um anwendungsbezogene Daten handelt. Daten über das Gerät oder den Benutzer werden <u>nicht</u> erfasst.</div>
+<div>(4) Das bei der Anmeldung in die App verwendete Passwort kann nicht zu einem bestimmten Nutzer zurückverfolgt werden, da es sich um ein globales Passwort handelt. Durch die Eingabe des Passwortes werden, wie innerhalb der gesamten App, <u>keine</u> personenbezogenen Daten erfasst.</div>
+<div>(5) Bei Deinstallation der Heinrich-Heine-Gymnasium App werden zugehörige Daten von dem Gerät entfernt.</div>
+<div><i>Mit der Anmeldung in die Heinrich-Heine-Gymnasium Applikation stimmst du zu, dass du die Datenschutzerklärung gelesen hast und dir über die Inhalte dieser im Klaren bist.</i></div>
+Zuletzt aktualisiert am:<br>27. Januar 2020

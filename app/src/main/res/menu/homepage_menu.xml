@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Menü Item, um zu den Informationen zu navigieren !-->
+    <item
+        android:id="@+id/startseite_informationen"
+        android:orderInCategory="99"
+        android:title="Informationen"
+        app:showAsAction="never" />
+    <!-- Menü Item, um zu den Settings zu navigieren !-->
+    <item
+        android:id="@+id/startseite_einstellungen"
+        android:orderInCategory="100"
+        android:title="Einstellungen"
+        app:showAsAction="never" />
+    <!-- Menü Item, um die Dateien erneut herunterzuladen !-->
+    <item
+        android:id="@+id/startseite_refresh"
+        android:orderInCategory="101"
+        android:title="Aktualisieren"
+        android:icon="@drawable/ic_action_reload"
+        app:showAsAction="always" />
+    <!-- Menü Item, um den Benutzer auszuloggen. Dabei wird auf die Login-Seite navigiert !-->
+    <item
+        android:id="@+id/startseite_logout"
+        android:orderInCategory="102"
+        android:icon="@drawable/ic_action_back"
+        android:title="Abmelden"
+       />
+</menu>

@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="hhg.informatikprojektkurs.de.activity.Vertretungsplan">
+    <item
+        android:id="@+id/vertretungsplan_informationen"
+        android:orderInCategory="100"
+        android:title="Informationen" />
+    <item
+        android:id="@+id/vertretungsplan_naechster"
+        android:orderInCategory="101"
+        android:title="Nächster Tag" />
+    <item
+        android:id="@+id/vertretungsplan_zurueck"
+        android:orderInCategory="102"
+        android:title="Heutiger Tag" />
+    <item
+        android:id="@+id/vertretungsplan_original"
+        android:orderInCategory="103"
+        android:title="Originaler Plan" />
+    <item
+        android:id="@+id/vertretungsplan_refresh"
+        android:orderInCategory="104"
+        android:icon="@drawable/ic_action_reload"
+        android:title="Aktualisieren"
+        app:showAsAction="always"/>
+</menu>

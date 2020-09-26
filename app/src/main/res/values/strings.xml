@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">HHG Köln</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Textbausteine für die Homepage !-->
+    <string name="navigation_drawer_open">Navigations-Menü öffnen</string>
+    <string name="navigation_drawer_close">Navigations-Menü geschlossen</string>
+
+    <string name="error_file_not_found">Fehlende Datei. Aktion abgebrochen.</string>
+    <string name="error_klausurplan_not_opened">Klausurplan kann nicht geöffnet werden.</string>
+    <string name="error_appointment_not_opened">Termine können nicht geöffnet werden.</string>
+
+    <string name="startseite_lehrer_text">Lehrer/in</string>
+    <string name="startseite_schueler_text">Schüler/in</string>
+
+    <string name="startseite_log_out">Erfolgreich ausgeloggt.</string>
+
+    <string name="activity_developer">&lt;b&gt;Florian Drees&lt;/b&gt; - © &lt;b&gt;2020&lt;/b&gt;</string>
+
+    <string name="snackbar_text_no_connection">Keine Internetverbindung vorhanden.</string>
+
+    <string name="nav_text_student_representation_plan">Vertretungsplan Schüler</string>
+    <string name="nav_text_teacher_representation_plan">Vertretungsplan Lehrer</string>
+
+    <string name="typeface_ssp_extra_light">fonts/ssp_extra_light.otf</string>
+    <string name="typeface_marvel_regular">fonts/marvel.ttf</string>
+    <string name="typeface_roboto_thin">fonts/roboto_thin.ttf</string>
+    <string name="typeface_lato_thin">fonts/lato_thin.ttf</string>
+
+    <string name="student_password">hhgKoeln1617</string>
+    <string name="prof_password">hhgKoelnLehrer184858</string>
+
+    <string name="staff_default_text_header">Keine Lehrkraft ausgewählt</string>
+    <string name="staff_default_text_information">&lt;i&gt;Wähle eine Lehrkraft aus der Liste aus, damit die zugehörigen Informationen angezeigt werden.&lt;/i&gt;</string>
+
+    <string name="rep_plan_subject">&lt;b&gt;Fach: &lt;/b&gt;</string>
+    <string name="rep_plan_classes">&lt;b&gt;Klasse(n): &lt;/b&gt;</string>
+    <string name="rep_plan_classroom">&lt;b&gt;Raum: &lt;/b&gt;</string>
+    <string name="rep_plan_type">&lt;b&gt;Art: &lt;/b&gt;</string>
+    <string name="rep_plan_absence">&lt;b&gt;fehlt: &lt;/b&gt;</string>
+
+    <string name="activity_title_appointments">Termine</string>
+    <string name="activity_title_examination_schedule">Klausurplan</string>
+    <string name="activity_title_homepage">Startseite</string>
+    <string name="activity_title_information">Informationen</string>
+    <string name="activity_title_pupil_plan">Vertretungsplan</string>
+    <string name="activity_title_teacher_plan">Vertretungsplan Lehrer</string>
+    <string name="activity_title_settings">Einstellungen</string>
+
+    <string name="activity_title_staff">Kollegium</string>
+    <string name="text_staff_selected">Ausgewählte Lehrkraft</string>
+
+    <string name="activity_title_login">Heinrich-Heine-Gymnasium</string>
+    <string name="activity_subtitle_login">Köln Ostheim</string>
+    <string name="hint_login">Passwort</string>
+
+    <string name="rep_plan_no_data">Heute hast du &lt;b&gt;keine&lt;/b&gt; Vertretung!</string>
+
+    <string name="settings_change_typeface_text">&lt;b&gt;Schriftart&lt;/b&gt;&lt;br&gt;&lt;br&gt;Wähle eine Schriftart aus, um diese in der App zu verwenden.</string>
+</resources>

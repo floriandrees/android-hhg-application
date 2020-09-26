@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Funktionen">
+        <menu>
+            <item
+                android:id="@+id/nav_vertretungsplan"
+                android:icon="@drawable/ic_action_vertretungsplan"
+                android:title="Vertretungsplan" />
+            <item
+                android:id="@+id/nav_vertretungsplan_lehrer"
+                android:icon="@drawable/ic_action_vertretungsplan_lehrer"
+                android:title="Vertretungsplan Lehrer"
+                android:visible="false" />
+            <item
+                android:id="@+id/nav_kollegium"
+                android:icon="@drawable/ic_action_kollegium"
+                android:title="Kollegium" />
+        </menu>
+    </item>
+
+    <item android:title="Interne Verweise">
+        <menu>
+            <item
+                android:id="@+id/nav_termine"
+                android:icon="@drawable/ic_action_termine"
+                android:title="Termine" />
+            <item
+                android:id="@+id/nav_klausurplan"
+                android:icon="@drawable/ic_action_klausurplan"
+                android:title="Klausurplan (EF-Q2)"/>
+            <item
+                android:id="@+id/nav_webseite"
+                android:icon="@drawable/ic_action_website"
+                android:title="Webseite" />
+            <item
+                android:id="@+id/nav_moodle2"
+                android:icon="@drawable/ic_action_moodle2"
+                android:title="Moodle2" />
+        </menu>
+    </item>
+
+    <item android:title="Verweise auf Drittanbieter">
+        <menu>
+            <item
+                android:id="@+id/nav_essen"
+                android:icon="@drawable/ic_action_service"
+                android:title="Essensbestellung" />
+        </menu>
+    </item>
+</menu>

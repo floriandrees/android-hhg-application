@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/white</color>
+    <color name="colorPrimaryDark">@android:color/transparent</color>
+    <color name="colorAccent">@android:color/white</color>
+    <color name="colorIcon">@android:color/white</color>
+
+    <!-- Bootstrap Colors !-->
+
+    <color name="bootstrap_TURQUOISE">#1ABC9C</color>
+    <color name="bootstrap_GREEN_SEA">#16A085</color>
+
+    <color name="bootstrap_EMERALD">#2ecc71</color>
+    <color name="bootstrap_NEPHRITIS">#27AE60</color>
+
+    <color name="bootstrap_PETER_RIVER">#3498DB</color>
+    <color name="bootstrap_BELIZE_HOLE">#2980B9</color>
+
+    <color name="bootstrap_AMETHYST">#9B59B6</color>
+    <color name="bootstrap_WISTERIA">#8E44AD</color>
+
+    <color name="bootstrap_WET_ASPHALT">#34495E</color>
+    <color name="bootstrap_MIDNIGHT_BLUE">#2C3E50</color>
+
+    <color name="bootstrap_SUN_FLOWER">#F1C40F</color>
+    <color name="bootstrap_ORANGE">#F39C12</color>
+
+    <color name="bootstrap_CARROT">#E67E22</color>
+    <color name="bootstrap_PUMPKIN">#D35400</color>
+
+    <color name="bootstrap_ALIZARIN">#E74C3C</color>
+    <color name="bootstrap_POMEGRANATE">#C0392B</color>
+
+    <color name="bootstrap_CLOUDS">#ECF0F1</color>
+    <color name="bootstrap_SILVER">#BDC3C7</color>
+
+    <color name="bootstrap_CONCRETE">#95A5A6</color>
+    <color name="bootstrap_ASBESTOS">#7F8C8D</color>
+</resources>
